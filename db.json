@@ -1,0 +1,14 @@
+{
+  "plants": [
+    {
+      "id":"1",
+      "shape": "polygon( 0 0, 100% 0, 100% 20%, 60% 20%, 60% 100%, 40% 100%, 40% 20%, 0 20%);",
+      "isSelected":false,
+      "top":10,
+      "color" : "red",
+      "url": "wikipedia.com",
+      "name": "Lantana",
+      "JoshComment": "They come in so many color varieties : D"
+  }
+  ]
+}
